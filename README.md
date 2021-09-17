@@ -8,7 +8,7 @@ Repo link: https://github.com/DARathnasiri/pump_it_up_competition
 3) Create a combined pandas dataframe of train values and test values.<br/>
 
 ## Explotary data analysis
-4) Plot graphs for each feature for explotary data analysis using seaborn.<br/>
+4) Plot graphs for each feature for explotary data analysis using seaborn and see overview of the data.<br/>
 
 ## Handling Outliers
 5) amount_tsh, construction_year, longitude features has outliers.<br/>
