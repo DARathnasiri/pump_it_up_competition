@@ -50,23 +50,23 @@ Repo link: https://github.com/DARathnasiri/pump_it_up_competition
 34) Analyse correlation of the scheme_management column with other columns.<br/>
 35) scheme_management has high correlation with management_group.<br/>
 
-management_group ----- highest frequncy scheme_management value<br/>
-0  ---------------------- 6<br/>
-1  ---------------------- 1<br/>
-2  ---------------------- 8<br/>
-3  ---------------------- 0<br/>
-4  ---------------------- 0<br/>
+management_group -----> highest frequncy scheme_management value<br/>
+0  --------------------------------------> 6<br/>
+1  --------------------------------------> 1<br/>
+2  --------------------------------------> 8<br/>
+3  --------------------------------------> 0<br/>
+4  --------------------------------------> 0<br/>
 
 36) Missing vales of scheme_management are filled with values that has highest frequency in each management_group shown in the above table.<br/>
 37) Analyse correlation of the public_meeting column with other features.<br/>
 38) public_meeting has high correlation with management_group.<br/>
 
-management_group  ----   highest frequncy public_meeting value<br/>
-0 -------------------------- 0<br/>
-1 -------------------------- 0<br/>
-2 -------------------------- 0<br/>
-3 -------------------------- 0<br/>
-4 -------------------------- 0<br/>
+management_group  ---->   highest frequncy public_meeting value<br/>
+0 ----------------------------------------> 0<br/>
+1 ----------------------------------------> 0<br/>
+2 ----------------------------------------> 0<br/>
+3 ----------------------------------------> 0<br/>
+4 ----------------------------------------> 0<br/>
 
 39) Missing values of public_meeting are filled with values that has highest frequency in each management_group shown in the above table.<br/>
 40) Consider missing values in permit as a seperate class and do the label encoding.<br/>
